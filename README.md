@@ -3,7 +3,7 @@
 Highlight: DBMS Design and Implementation.
 
 ### Note:
-For a detailed report, **check the attached replort document** . For the DB File, check the sql files.
+For a detailed report, **check the attached report document** . For the DB File, check the sql files.
 
 The database system designed for managing library operations is a thoughtfully
 constructed structure that aims to handle the various facets of library management
